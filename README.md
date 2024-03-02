@@ -1,5 +1,11 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on my senior project.
+- 🌱 I’m currently learning new skills to become a frontend developer.
+- 🤔 I’m looking for help with repositories that invovle GUI, Reactjs, Angular. 
+- 💬 Ask me about Math.
+- 📫 How to reach me: mka154@student.bau.edu.lb
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: i like cooking, reading and traveling.
 <!--
 **akkawimariam/akkawimariam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
